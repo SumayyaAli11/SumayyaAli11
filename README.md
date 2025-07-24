@@ -1,22 +1,28 @@
-Hi there 👋 I am Sumayya Ali
+## 👋 Hi there, I'm Sumayya Ali
 
-About Me
+### 🚀 About Me
 
-I'm an aspiring Data enthusiast with a unique journey. 
-I started my career as an Online Math tutor at a US-based company, and I've transitioned into the dynamic field of Data Science. 
-My repository is a reflection of my ongoing journey to upskill myself into a proficient Data Analyst/Scientist. 
-I'm passionate about experimenting with various aspects of Data Science, including Machine learning, Deep learning, NLP, Data visualization, and Exploratory Data Analysis. 
-Through my projects here, I aim to not only showcase my progress but also contribute to the ever-evolving world of Data Science. 
-Join me on this exciting learning adventure as we explore the fascinating realms of data together!
+I'm a Data Scientist transitioning into full-stack AI engineering with a focus on cloud-native development and AI-driven applications. My journey began as a Math tutor, evolved through a Master’s in Data Science and Analytics, and is now deepening into areas like AI Agents, Large Language Models (LLMs), and cloud infrastructure.
 
-📊📈 #DataScience #MachineLearning #DeepLearning #NLP #DataVisualization #ExploratoryDataAnalysis
+This GitHub is a reflection of my hands-on learning from data analysis and ML pipelines to building intelligent systems using LangChain, FastAPI, and AWS. I'm passionate about bridging AI and software engineering through real-world, agentic, and scalable projects.
 
-🔭 I’m currently working on Data Science projects.
+### 🔧 Tech & Interests
+- 🧠 AI Agents • LangChain • LLM Apps
+- ☁️ Cloud (currently preparing for AWS Cloud Practitioner)
+- ⚙️ DevOps & MLOps (CI/CD, Docker)
+- 📊 Data Science • ML • NLP • EDA
+- 🧪 Experimenting with real-world datasets and open-source tools
 
-🌱 I’m currently learning AI Agents.
+### 💡 What I’m Working On
+- A Multi-Agent Medical Diagnosis Assistant (MSc Thesis Project)
+- Cloud & DevOps skills for full-stack AI engineering
 
-👯 I’m looking to collaborate on Machine Learning, Deep Learning, NLP and LLM.
+### 🤝 Let’s Connect
+- 📫 Reach me at: **sumayyaali.work@gmail.com**
+- 🔍 Open to collaborations in AI, ML, and cloud-based app development
 
-📫 How to reach me: sumayyaali.work@gmail.com
+---
 
-😄 Happy Learning
+> “Learning never exhausts the mind — it only fuels new possibilities.”  
+> _– Leonardo da Vinci_
+
