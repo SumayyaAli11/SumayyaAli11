@@ -14,10 +14,15 @@ My research and projects focus on:
 ### 🔧 Technical Focus & Interests
 
 📐 Bayesian Statistics • Hierarchical Models • MCMC
+
 🌍 Climate & Environmental Risk • Extreme Sea Levels • Exposure Modelling
+
 🗺 Spatial & Spatio-temporal Analysis
+
 📊 Data Science & Statistical Modelling (R, Python)
+
 🔁 Reproducible Research • Git • Open Science
+
 ☁️ Gradual transition to Python & cloud-based analytics
 
 ---
