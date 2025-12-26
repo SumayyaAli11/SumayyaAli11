@@ -2,24 +2,23 @@
 
 ### 🚀 About Me
 
-I'm a Data Scientist transitioning into full-stack AI engineering with a focus on cloud-native development and AI-driven applications. My journey began as a Math tutor, evolved through a Master’s in Data Science and Analytics, and is now deepening into areas like AI Agents, Large Language Models (LLMs), and cloud infrastructure.
+I am a PhD researcher in Mathematics & Statistics, specialising in Bayesian modelling, uncertainty quantification, and climate risk analysis, with a research focus on estimating and projecting population exposure to extreme sea levels in Ireland. 
 
-This GitHub is a reflection of my hands-on learning from data analysis and ML pipelines to building intelligent systems using LangChain, FastAPI, and AWS. I'm passionate about bridging AI and software engineering through real-world, agentic, and scalable projects.
+My background combines strong statistical theory with applied data science, grounded in real-world environmental and population data. I work primarily in R, building robust, reproducible statistical models, and I am actively expanding into Python to align my work with industry-grade analytics and production workflows.
 
-### 🔧 Tech & Interests
-- 🧠 AI Agents • LangChain • LLM Apps
-- ☁️ Cloud (currently preparing for AWS Cloud Practitioner)
-- ⚙️ DevOps & MLOps (CI/CD, Docker)
-- 📊 Data Science • ML • NLP • EDA
-- 🧪 Experimenting with real-world datasets and open-source tools
+My research and projects focus on:
+- Translating complex statistical models into decision-relevant insights
+- Quantifying and communicating uncertainty for policy, planning, and risk assessment
+- Applying Bayesian, spatial, and extreme-value methods to real environmental challenges
 
-### 💡 What I’m Working On
-- A Multi-Agent Medical Diagnosis Assistant (MSc Thesis Project)
-- Cloud & DevOps skills for full-stack AI engineering
+### 🔧 Technical Focus & Interests
 
-### 🤝 Let’s Connect
-- 📫 Reach me at: **sumayyaali.work@gmail.com**
-- 🔍 Open to collaborations in AI, ML, and cloud-based app development
+📐 Bayesian Statistics • Hierarchical Models • MCMC
+🌍 Climate & Environmental Risk • Extreme Sea Levels • Exposure Modelling
+🗺 Spatial & Spatio-temporal Analysis
+📊 Data Science & Statistical Modelling (R, Python)
+🔁 Reproducible Research • Git • Open Science
+☁️ Gradual transition to Python & cloud-based analytics
 
 ---
 
