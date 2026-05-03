@@ -4,7 +4,7 @@
 
 I am a PhD researcher in Mathematics & Statistics, specialising in Bayesian modelling, uncertainty quantification, and climate risk analysis, with a research focus on estimating and projecting population exposure to extreme sea levels in Ireland. 
 
-My background combines strong statistical theory with applied data science, grounded in real-world environmental and population data. I work primarily in R, building robust, reproducible statistical models, and I am actively expanding into Python to align my work with industry-grade analytics and production workflows.
+My background combines strong statistical theory with applied data science, grounded in real-world environmental and population data. I work primarily in R and Python, building robust, reproducible statistical models, and I am actively expanding my skillset to align my work with industry-grade analytics and production workflows.
 
 My research and projects focus on:
 - Translating complex statistical models into decision-relevant insights
